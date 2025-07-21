@@ -18,28 +18,28 @@ function Carrossel() {
       >
         <SwiperSlide className="sla">
           <img
-            src={"/images/IMG-20250721-WA0125.jpg"}
+            src={"/IMG-20250721-WA0125.jpg"}
             alt={`Imagem test3`}
             className="img"
           />
         </SwiperSlide>
         <SwiperSlide className="sla">
           <img
-            src={"/images/IMG-20250721-WA0126.jpg"}
+            src={"/IMG-20250721-WA0126.jpg"}
             alt={`Imagem test23`}
             className="img"
           />
         </SwiperSlide>
         <SwiperSlide className="sla">
           <img
-            src={"/images/IMG-20250721-WA0012.jpg"}
+            src={"/IMG-20250721-WA0012.jpg"}
             alt={`Imagem test2`}
             className="img"
           />
         </SwiperSlide>
         <SwiperSlide className="sla">
           <img
-            src={"/images/IMG-20250721-WA0120.jpg"}
+            src={"/IMG-20250721-WA0120.jpg"}
             alt={`Imagem test1`}
             className="img"
           />
