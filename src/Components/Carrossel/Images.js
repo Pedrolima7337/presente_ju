@@ -508,11 +508,11 @@
 const Todas_imagens = [
   {
     id: "125",
-    image: "/images/IMG-20250721-WA0125.jpg",
+    image: "public/images/IMG-20250721-WA0125.jpg",
   },
   {
     id: "126",
-    image: "/images/IMG-20250721-WA0126.jpg",
+    image: "public/images/IMG-20250721-WA0126.jpg",
   },
 ];
 export default Todas_imagens;
