@@ -1,6 +1,10 @@
 const Todas_imagens = [
   {
     id: "1",
+    image: "/IMG-20250721-WA0007.jpg",
+  },
+  {
+    id: "8",
     image: "/IMG-20250721-WA0001.jpg",
   },
   {
@@ -22,14 +26,6 @@ const Todas_imagens = [
   {
     id: "6",
     image: "/IMG-20250721-WA0006.jpg",
-  },
-  {
-    id: "7",
-    image: "/IMG-20250721-WA0007.jpg",
-  },
-  {
-    id: "8",
-    image: "/IMG-20250721-WA0008.jpg",
   },
   {
     id: "9",
@@ -154,30 +150,6 @@ const Todas_imagens = [
   {
     id: "39",
     image: "/IMG-20250721-WA0039.jpg",
-  },
-  {
-    id: "40",
-    image: "/IMG-20250721-WA0040.jpg",
-  },
-  {
-    id: "41",
-    image: "/IMG-20250721-WA0041.jpg",
-  },
-  {
-    id: "42",
-    image: "/IMG-20250721-WA0042.jpg",
-  },
-  {
-    id: "43",
-    image: "/IMG-20250721-WA0043.jpg",
-  },
-  {
-    id: "44",
-    image: "/IMG-20250721-WA0044.jpg",
-  },
-  {
-    id: "45",
-    image: "/IMG-20250721-WA0045.jpg",
   },
   {
     id: "46",
@@ -308,36 +280,8 @@ const Todas_imagens = [
     image: "/IMG-20250721-WA0077.jpg",
   },
   {
-    id: "78",
-    image: "/IMG-20250721-WA0078.jpg",
-  },
-  {
-    id: "79",
-    image: "/IMG-20250721-WA0079.jpg",
-  },
-  {
-    id: "80",
-    image: "/IMG-20250721-WA0080.jpg",
-  },
-  {
-    id: "81",
-    image: "/IMG-20250721-WA0081.jpg",
-  },
-  {
-    id: "82",
-    image: "/IMG-20250721-WA0082.jpg",
-  },
-  {
-    id: "83",
-    image: "/IMG-20250721-WA0083.jpg",
-  },
-  {
     id: "84",
     image: "/IMG-20250721-WA0084.jpg",
-  },
-  {
-    id: "85",
-    image: "/IMG-20250721-WA0085.jpg",
   },
   {
     id: "86",
