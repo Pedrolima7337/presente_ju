@@ -1,5 +1,5 @@
 import "./style.css";
-import { SwiperSlide } from "swiper/react";
+
 function Cards({ img }) {
   return (
     <section className="container">
