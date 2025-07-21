@@ -16,7 +16,7 @@ function Carrossel() {
           perSlideOffset: 4,
         }}
       >
-        <SwiperSlide className="sla">
+        {/* <SwiperSlide className="sla">
           <img
             src={"/IMG-20250721-WA0125.jpg"}
             alt={`Imagem test3`}
@@ -43,13 +43,13 @@ function Carrossel() {
             alt={`Imagem test1`}
             className="img"
           />
-        </SwiperSlide>
+        </SwiperSlide> */}
 
-        {/* {Todas_imagens.map((item) => (
+        {Todas_imagens.map((item) => (
           <SwiperSlide className="sla" key={item.id}>
             <img src={item.image} alt={`Imagem ${item.id}`} className="img" />
           </SwiperSlide>
-        ))} */}
+        ))}
       </Swiper>
     </div>
   );
