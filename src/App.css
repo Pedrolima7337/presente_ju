@@ -1,0 +1,36 @@
+.App {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+  overflow: hidden;
+  background-color: #fff5f8;
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  h1 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #b23a48;
+  }
+  @media (min-width: 720px) {
+    flex-direction: row;
+    align-items: center;
+    align-content: space-around;
+  }
+}
+.teste {
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  padding-right: 200px;
+  /* margin-left: -200px; */
+}
+.sla {
+  display: flex;
+  align-content: center;
+  height: 300px;
+  @media (min-width: 720px) {
+    height: 500px;
+  }
+}
