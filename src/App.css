@@ -8,23 +8,34 @@
   background-color: #fff5f8;
   font-family: "Poppins", sans-serif;
   color: #333;
+  height: 96vh;
+
+  @media (min-width: 720px) {
+    flex-direction: row;
+    align-items: center;
+    align-content: space-around;
+  }
+
   h1 {
     font-size: 18px;
     font-weight: bold;
     color: #b23a48;
   }
-  @media (min-width: 720px) {
-    flex-direction: row;
-    align-items: center;
-    align-content: space-around;
+  @media (max-width: 720px) {
+    height: 100%;
   }
 }
 .teste {
   width: 100%;
   overflow: hidden;
   text-align: center;
-  padding-right: 200px;
-  /* margin-left: -200px; */
+  padding-right: 100px;
+  @media (min-width: 720px) {
+    width: 575px;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-around;
+  }
 }
 .sla {
   display: flex;

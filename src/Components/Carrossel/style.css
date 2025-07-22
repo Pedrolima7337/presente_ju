@@ -1,7 +1,12 @@
 .container {
+  width: 100vh;
   padding-top: 30px;
   @media (max-width: 720px) {
     max-height: 175px;
+  }
+  @media (max-width: 580px) {
+    width: 300px;
+    padding-right: 200px;
   }
 }
 
